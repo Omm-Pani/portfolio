@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+padding: 2rem;
+background-color: #e4f9f5;
+}
+h1{
+    text-align: center;
+    margin: 2rem auto 2rem auto;
+    width: 50%;
+    color:#17acac ;
+}
+button{
+   width: 49%;
+  background-color: #c2f3e9;
+  height: 200px;
+  border: 2px solid #30e3ca;
+  border-radius: 20px;
+}
+a{
+    text-decoration: none;
+}
+ 
