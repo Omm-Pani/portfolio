@@ -79,6 +79,11 @@ h4 {
 .middle_container1 {
   margin: 120px 150px;
 }
+@media only screen and (max-width: 600px){
+  .middle_container1{
+    margin: 100px 30px;
+  }
+}
 i {
   padding-bottom: 1.3rem;
   color: #52b3b3;
@@ -107,10 +112,16 @@ p {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
 }
-/* .intro {
+.intro {
   width: 50%;
   margin: auto;
-} */
+}
+@media only screen and (max-width: 600px){
+  .intro {
+    width: 100%;
+    margin: auto;
+  }
+}
 .skills {
   margin: 5rem 3rem;
 }
